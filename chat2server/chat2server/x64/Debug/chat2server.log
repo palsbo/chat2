@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-  tcpServer.cpp
-  chat2server.cpp
-  Generating Code...
-c:\users\erik\onedrive\documents\visual studio 2017\projects\chat2\chat2server\chat2server\tcpserver.cpp(64): warning C4715: 'SERVER::loop': not all control paths return a value
-  chat2server.vcxproj -> C:\Users\erik\OneDrive\Documents\Visual Studio 2017\Projects\chat2\chat2server\x64\Debug\chat2server.exe
-  chat2server.vcxproj -> C:\Users\erik\OneDrive\Documents\Visual Studio 2017\Projects\chat2\chat2server\x64\Debug\chat2server.pdb (Partial PDB)
